@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    width: 20vw;
+    padding: 20px;
+    border: 2px solid rgb(208, 207, 207);
+    text-align: center;
+    margin: 10px;
+    background: rgb(240, 240, 240);
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.btn2{
+    border: 1px solid #E51700;
+    padding: 10px 15px;
+    background: #E51700;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.btn2:hover{
+    border: 1px solid #E51700;
+    padding: 10px 15px;
+    color: #E51700;
+    background: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+
+}
